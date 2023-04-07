@@ -22,8 +22,9 @@ Here are some ideas to get you started:
 
 ### ¿Qué hago aquí?
 - 🔭 Mi objetivo al compartir mis conocimientos y proyectos en GitHub es poder ayudar a la comunidad de programadores y guiarlos en la creación de nuevos proyectos innovadores que evolucionen el mundo. 
-- 🌱Si tienes alguna pregunta sobre mis proyectos o te gustaría colaborar conmigo, ¡no dudes en ponerte en contacto!
+- 🌱 Si tienes alguna pregunta sobre mis proyectos o te gustaría colaborar conmigo, ¡no dudes en ponerte en contacto!
 
 ### ¿Quieres seguirme en alguna de mis redes?
 - ⚡ YouTube: https://www.youtube.com/channel/UCEgmxwhGyfaGq4jcA6yqkFA
 - ⚡ Instagram: https://www.instagram.com/juan_adames__/
+- ⚡ LinkedIn: https://www.linkedin.com/in/juan-adames/
