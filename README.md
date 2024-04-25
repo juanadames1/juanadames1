@@ -15,16 +15,11 @@ Here are some ideas to get you started:
 ### Hola, soy Juan Adames 👋
 
 ### Acerca de mi
-- 😄 Soy estudiante de ingeniería informática en la Universidad de la Sabana, con experiencia en desarrollo Backend y análisis de ciberseguridad. Me apasiona programar en diferentes lenguajes de programación, incluyendo Kotlin, JavaScript, Ruby, PHP, Java y Python. Además, me encanta jugar videojuegos, hacer pruebas rápidas de seguridad a redes wifi, enseñar y grabar vídeos para YouTube.
-
-### Puede interesarte que:
-- 🤔 He trabajado con una empresa para construir su sitio web para su modelo de negocio B2B hunting y actualmente estoy trabajando en un proyecto personal que tendrá como objetivo mejorar la calidad de vida laboral para jóvenes en sus periodos vacacionales.
+- 😄 Soy Juan Adames, tengo 20 años y actualmente me encuentro viviendo en la ciudad de Bogotá D.C, Colombia. Mis habilidades más destacables son: penetration testing, auditorias de redes wifi, auditorias para la ISO27001 2022, Brute force, Python, Java y JavaScript, todas estas habilidades con un conocimiento teórico práctico más que decente para la realización de proyectos o labores de seguridad informática, sin embargo, también disfruto de salir a manejar por largas horas en mi motocicleta, disfruto de jugar en línea con mis amigos y aprender cosas nuevas cada vez que se me presenta la oportunidad.
 
 ### ¿Qué hago aquí?
 - 🔭 Mi objetivo al compartir mis conocimientos y proyectos en GitHub es poder ayudar a la comunidad de programadores y guiarlos en la creación de nuevos proyectos innovadores que evolucionen el mundo. 
 - 🌱 Si tienes alguna pregunta sobre mis proyectos o te gustaría colaborar conmigo, ¡no dudes en ponerte en contacto!
 
 ### ¿Quieres seguirme en alguna de mis redes?
-- ⚡ YouTube: https://www.youtube.com/channel/UCEgmxwhGyfaGq4jcA6yqkFA
-- ⚡ Instagram: https://www.instagram.com/juan_adames__/
 - ⚡ LinkedIn: https://www.linkedin.com/in/juan-adames/
