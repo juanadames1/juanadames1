@@ -1,4 +1,4 @@
-# Hola, soy Juan Adames, Pentester (Red Team) y Backend Developer 👨‍💻
+# Hola, soy Juan Adames, Pentester (Red Team) 👨‍💻
 
 Soy un jóven apasionado por el mundo de la ciberseguridad y el desarrollo de software en el apartado del Backend. A diferencia de otras personas en mi rango de edad, me destaco por siempre ir más allá de mis limites, porque soy un fiel creyente de que el esfuerzo y la dedicación vencen al talento.
 
