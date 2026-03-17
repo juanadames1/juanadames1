@@ -24,14 +24,14 @@ Ingeniero Informático con enfoque en **Red Team** y **seguridad ofensiva**. Me 
   ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hydra&logoColor=white)
   ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logo=john-the-ripper&logoColor=white)
   ![SQLMAP](https://img.shields.io/badge/SQLMAP-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![EDR/XDR/MDR](https://img.shields.io/badge/EDR%2FXDR%2FMDR-1E90FF?style=for-the-badge&logo=cybersecurity&logoColor=white)
 
 - **SIEM / SOC:**  
   ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
   ![Wazuh](https://img.shields.io/badge/Wazuh-5B8C5A?style=for-the-badge&logo=wazuh&logoColor=white)
   ![OSSIM](https://img.shields.io/badge/OSSIM-00A98F?style=for-the-badge&logo=alienware&logoColor=white)
   ![Sophos](https://img.shields.io/badge/Sophos-008000?style=for-the-badge&logo=sophos&logoColor=white)
-  ![EDR/XDR/MDR](https://img.shields.io/badge/EDR%2FXDR%2FMDR-1E90FF?style=for-the-badge&logo=cybersecurity&logoColor=white)
-
+ 
 - **Sistemas Operativos:**  
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
