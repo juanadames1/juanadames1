@@ -1,68 +1,124 @@
-# Hola, soy Juan Adames, Pentester (Red Team) 👨‍💻
+# ¡Hola! Soy Juan Adames 👋
 
-Soy un jóven apasionado por el mundo de la ciberseguridad y el desarrollo de software en el apartado del Backend. A diferencia de otras personas en mi rango de edad, me destaco por siempre ir más allá de mis limites, porque soy un fiel creyente de que el esfuerzo y la dedicación vencen al talento.
+## Pentester (Red Team) | Backend Developer | Apasionado por la Ciberseguridad
 
-> "No importa cuánta seguridad tengas en tu sistema, nunca serás completamente invulnerable." - Kevin Mitnick
+Ingeniero Informático con enfoque en **Red Team** y **seguridad ofensiva**. Me gusta ir más allá de los límites, explorar vulnerabilidades y contribuir a fortalecer las defensas de las organizaciones. Mi lema: *el esfuerzo y la dedicación vencen al talento*.
 
-## Habilidades principales
+---
 
-### Ciberseguridad
-* **Herramientas:**
-  * ![Nessus](https://img.shields.io/badge/Nessus%20-%20black?style=for-the-badge&logo=1password)
-  ![Metasploit](https://img.shields.io/badge/Metasploit%20-%20black?style=for-the-badge&logo=metasploit)
-  ![Fern Wifi](https://img.shields.io/badge/Fern%20Wifi%20-%20black?style=for-the-badge&logo=wikiquote)
-  ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper%20-%20black?style=for-the-badge&logo=darkreader)
-  ![SQLMAP](https://img.shields.io/badge/SQLMAP%20-%20black?style=for-the-badge&logo=mysql&logoColor=white)
-  ![p0wny](https://img.shields.io/badge/P0WNY%20-%20black?style=for-the-badge&logo=haveibeenpwned)
-  ![Wazuh](https://img.shields.io/badge/Wazuh%20-%20black?style=for-the-badge&logo=watchtower&logoColor=white)
+### 📖 Sobre mí
 
-* **S.O:**
-  * ![Kali Linux](https://img.shields.io/badge/Kali%20Linux%20-%20black?style=for-the-badge&logo=kalilinux&logoColor=white)
-  ![Ubuntu Server & Desktop](https://img.shields.io/badge/Ubuntu%20Server%20%26%20Desktop%20-%20black?style=for-the-badge&logo=ubuntu&logoColor=white)
-  ![Windows Server & Desktop](https://img.shields.io/badge/Windows%20Server%20%26%20Desktop%20-%20black?style=for-the-badge&logo=windows&logoColor=white)
-  ![OSSIM](https://img.shields.io/badge/OSSIM%20-%20black?style=for-the-badge&logo=alienware&logoColor=white)
+- 🔭 Actualmente trabajo como **Analista de Ciberseguridad** y **Practicante de Acreditación Internacional** en la Universidad de La Sabana.
+- 🌱 Especializándome en **explotación de vulnerabilidades**, **ingeniería social** y **hardening de sistemas**.
+- 👯 Busco colaborar en proyectos de ciberseguridad, red team y desarrollo backend.
+- 🥅 Meta 2026: Obtener la certificación **OSCP** y seguir creciendo en la comunidad de seguridad.
+- ⚡ Dato curioso: Paso gran parte de mi tiempo libre en **Hack The Box** y contribuyendo a labs de seguridad.
 
-* **Pasatiempos:**
-  * ![Hack the Box](https://img.shields.io/badge/Hack%20the%20Box%20-%20black?style=for-the-badge&logo=hackthebox&logoColor=white)
+---
 
-### Backend
-* **Lenguajes de programación:**
-    * ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+### 🛠️ Habilidades Técnicas
 
-* **Frameworks:**
-    * ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+#### Ciberseguridad
+- **Vulnerability Assessment:**  
+  ![Nessus](https://img.shields.io/badge/Nessus-00B4B4?style=for-the-badge&logo=tenable&logoColor=white)
+  ![Rapid7](https://img.shields.io/badge/Rapid7-1F1F1F?style=for-the-badge&logo=rapid7&logoColor=white)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
+  ![Nmap](https://img.shields.io/badge/Nmap-004B87?style=for-the-badge&logo=nmap&logoColor=white)
+  ![BurpSuite](https://img.shields.io/badge/Burp_Suite-FF6C37?style=for-the-badge&logo=burpsuite&logoColor=white)
+  ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=hydra&logoColor=white)
+  ![John the Ripper](https://img.shields.io/badge/John_the_Ripper-CC0000?style=for-the-badge&logo=john-the-ripper&logoColor=white)
+  ![SQLMAP](https://img.shields.io/badge/SQLMAP-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-* **Queues:**
-    * ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+- **SIEM / SOC:**  
+  ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+  ![Wazuh](https://img.shields.io/badge/Wazuh-5B8C5A?style=for-the-badge&logo=wazuh&logoColor=white)
+  ![OSSIM](https://img.shields.io/badge/OSSIM-00A98F?style=for-the-badge&logo=alienware&logoColor=white)
+  ![Sophos](https://img.shields.io/badge/Sophos-008000?style=for-the-badge&logo=sophos&logoColor=white)
+  ![EDR/XDR/MDR](https://img.shields.io/badge/EDR%2FXDR%2FMDR-1E90FF?style=for-the-badge&logo=cybersecurity&logoColor=white)
 
-* **Cloud:**
-    * ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+- **Sistemas Operativos:**  
+  ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Databases
-* **SQL:**
-    * ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+- **Plataformas de Entrenamiento:**  
+  ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
-* **NoSQL:**
-    * ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+#### Backend Development
+- **Lenguajes:**  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
- ### DevOps
-  * ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+- **Frameworks:**  
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-* **Version:**
-    * ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-   
-* **Development:**
-    * ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-    ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- **Message Queues:**  
+  ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
-## Connect with Me! 🌐
+- **Cloud:**  
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
-Open to new opportunities, collaborations, and projects!
+#### Bases de Datos
+- **SQL:**  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- **NoSQL:**  
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-[![Linkedin](https://img.shields.io/badge/-juanadames-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/juan-adames/)
-[![GitHub](https://img.shields.io/github/followers/juanadames?label=juanadames&style=social)](https://github.com/juanadames1)
+#### DevOps & Herramientas
+- **Contenedores y Orquestación:**  
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+- **CI/CD:**  
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+- **Control de Versiones:**  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- **Entornos de Desarrollo:**  
+  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 💼 Experiencia Profesional
+
+**Analista de Ciberseguridad**  
+*Ene 2021 – Presente*  
+- Instalación en sitio de soluciones de ciberseguridad, análisis de vulnerabilidades y generación de reportes SOC.  
+- Soporte técnico en sitio y remoto a clientes empresariales, asegurando la continuidad del negocio.  
+
+**Practicante de Acreditación Internacional**  
+*Universidad de La Sabana | Ago 2025 – Mar 2026*  
+- Recolección, organización y análisis de información académica para procesos de acreditación.  
+- Elaboración de documentos de autoevaluación para los programas de Ingeniería Industrial e Informática.  
+
+---
+
+### 🎓 Educación
+
+- **Ingeniería Informática** – Universidad de La Sabana (GPA: 3.13/4.0)  
+- **Diplomado en Ciberseguridad ISO 27001:2022** – Universidad de La Sabana / Instituto FORUM  
+
+### 📜 Certificaciones
+
+- Cybersecurity Essential Training (CM-CE)  
+- Certificaciones complementarias (Udemy, SENA, etc.)  
+
+### 🌐 Idiomas
+
+- Español (Nativo)  
+- Inglés (B2 – Intermedio)  
+
+---
+
+### 📫 Conéctate conmigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-adames/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/juanadames1)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:juan.adames@protonmail.com)
+
+---
+
+⭐️ *"No importa cuánta seguridad tengas en tu sistema, nunca serás completamente invulnerable."*  
+– Kevin Mitnick
