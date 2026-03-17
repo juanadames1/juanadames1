@@ -1,6 +1,6 @@
 # ¡Hola! Soy Juan Adames 👋
 
-## Pentester (Red Team) | Backend Developer | Apasionado por la Ciberseguridad
+## Pentester (Red Team) | Apasionado por la Ciberseguridad
 
 Ingeniero Informático con enfoque en **Red Team** y **seguridad ofensiva**. Me gusta ir más allá de los límites, explorar vulnerabilidades y contribuir a fortalecer las defensas de las organizaciones. Mi lema: *el esfuerzo y la dedicación vencen al talento*.
 
