@@ -5,15 +5,11 @@
 Ingeniero Informático con enfoque en **Red Team** y **seguridad ofensiva**. Me gusta ir más allá de los límites, explorar vulnerabilidades y contribuir a fortalecer las defensas de las organizaciones. Mi lema: *el esfuerzo y la dedicación vencen al talento*.
 
 ---
-
 ### 📖 Sobre mí
 
-- 🔭 Actualmente trabajo como **Analista de Ciberseguridad** y **Practicante de Acreditación Internacional** en la Universidad de La Sabana.
+- 🔭 Actualmente me estoy preparando para ser **Analista de Ciberseguridad**.
 - 🌱 Especializándome en **explotación de vulnerabilidades**, **ingeniería social** y **hardening de sistemas**.
-- 👯 Busco colaborar en proyectos de ciberseguridad, red team y desarrollo backend.
-- 🥅 Meta 2026: Obtener la certificación **OSCP** y seguir creciendo en la comunidad de seguridad.
-- ⚡ Dato curioso: Paso gran parte de mi tiempo libre en **Hack The Box** y contribuyendo a labs de seguridad.
-
+- ⚡ Busco colaborar en proyectos de ciberseguridad y red team.
 ---
 
 ### 🛠️ Habilidades Técnicas
@@ -80,30 +76,6 @@ Ingeniero Informático con enfoque en **Red Team** y **seguridad ofensiva**. Me 
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-### 💼 Experiencia Profesional
-
-**Analista de Ciberseguridad**  
-*Ene 2021 – Presente*  
-- Instalación en sitio de soluciones de ciberseguridad, análisis de vulnerabilidades y generación de reportes SOC.  
-- Soporte técnico en sitio y remoto a clientes empresariales, asegurando la continuidad del negocio.  
-
-**Practicante de Acreditación Internacional**  
-*Universidad de La Sabana | Ago 2025 – Mar 2026*  
-- Recolección, organización y análisis de información académica para procesos de acreditación.  
-- Elaboración de documentos de autoevaluación para los programas de Ingeniería Industrial e Informática.  
-
----
-
-### 🎓 Educación
-
-- **Ingeniería Informática** – Universidad de La Sabana (GPA: 3.13/4.0)  
-- **Diplomado en Ciberseguridad ISO 27001:2022** – Universidad de La Sabana / Instituto FORUM  
-
-### 📜 Certificaciones
-
-- Cybersecurity Essential Training (CM-CE)  
-- Certificaciones complementarias (Udemy, SENA, etc.)  
 
 ### 🌐 Idiomas
 
